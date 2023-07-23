@@ -1098,7 +1098,9 @@ a {
   top: 0;
 }
 .cid-tKy3a0n45U .image-wrap img {
-  width: 100%;
+  width: 60%;
+  display: block;
+  margin: auto;
 }
 @media (min-width: 992px) {
   .cid-tKy3a0n45U .image-wrap img {
