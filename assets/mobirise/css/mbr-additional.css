@@ -22,7 +22,7 @@ body {
 }
 .display-4 {
   font-family: 'Comfortaa', display;
-  font-size: 1rem;
+  font-size: 0.8rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
